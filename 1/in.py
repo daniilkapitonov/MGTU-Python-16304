@@ -1,0 +1,2 @@
+asd = input()
+print(asd)
